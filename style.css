@@ -1,0 +1,14 @@
+h1
+{
+color: aqua;
+font-size: xx-large;
+font-family: 'Mountains of Christmas', serif;
+}
+#myCanvas
+{
+    border-width: 10px;
+    border-color:rgb(0, 191, 255);
+    margin: 5px;
+    border-style: groove;
+    background-color: rgb(255, 0, 0);
+}
